@@ -24,7 +24,7 @@ Features:
 
 ## Project link :
 
-# 
+# https://koushikdevwflx.github.io/Sorting-Visualizer/
 
 
 Kindly Check this Out!!, Hope you enjoy this :)
